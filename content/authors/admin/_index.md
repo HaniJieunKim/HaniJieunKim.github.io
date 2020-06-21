@@ -5,44 +5,43 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Computational Biology
+    institution: The University of Sydney
+    year: 2018
+  - course: MSc in Biomedical Sciences
+    institution: Seoul National University 
+    year: 2011
+  - course: BSc in Biological Sciences
+    institution: Imperial College London
     year: 2008
-email: ""
+email: "hani.kim@sydney.edu.au"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Systems and Computational Biology
+- Stem Cell Biology
+- Multiomic and Single Cell Analysis
 organizations:
-- name: Stanford University
+- name: The University of Sydney
   url: ""
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/hani_jieun
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/HaniJieunKim
 superuser: true
-title: Nelson Bighetti
+title: Hani Jieun Kim
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hani Jieun Kim is a 3rd year PhD student in Computational Biology at the School of Mathematics and Statistics, The University of Sydney. She is part of the Computational Systems Biology Group headed by Dr. Pengyi Yang. Her research interests understanding pluripotency transitions among different stem cell types. Her research combines lab experiments with computational data analytics to understand molecular regulations in stem cells and development.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

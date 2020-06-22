@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   #certificate_url = "https://www.coursera.org"
   date_start = "2018-07-01"
-  date_end = "present"
+  date_end = "2021-12-30"
   description = ""
 
 [[item]]
@@ -35,17 +35,27 @@ date_format = "Jan 2006"
   url = ""
   #certificate_url = "https://www.edx.org"
   date_start = "2019-08-01"
-  date_end = "present"
+  date_end = "2021-12-30"
   description = ""
   
 [[item]]
   organization = "Lorne Proteomics Symposium"
-  organization_url = "https://www.datacamp.com"
+  organization_url = "https://www.australasianproteomics.org/"
   title = "Student Oral Award"
   url = ""
   #certificate_url = "https://www.datacamp.com"
-  date_start = "2020-07-01"
-  date_end = "2017-12-21"
+  date_start = "2020-02-07"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Oz Single Cell Consortium"
+  organization_url = "https://www.singlecells.org.au/"
+  title = "Single Cell Challenge 1st Prize"
+  url = ""
+  #certificate_url = "https://www.datacamp.com"
+  date_start = "2019-07-01"
+  date_end = ""
   description = ""
 
 +++

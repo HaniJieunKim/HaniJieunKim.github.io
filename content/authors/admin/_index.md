@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include systems and computational biology, stem cell biology, and multiomic and single cell analysis. 
 education:
   courses:
   - course: PhD in Computational Biology
@@ -32,7 +31,7 @@ social:
   link: https://twitter.com/hani_jieun
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4TO7ABnOr8RJe1lrJTbnxSltb8NCVMDg2DNmCsPD1rr7g7DRaiw0Ln4yFuWfPLGCvybJeiQ4X-nGeIDyE4S4bCiGLAAXyrwnAx_ZBV3KdHLXpRvaW_GJtfTKPmXJfgBksJ-PHu&user=dVDoGfgAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/HaniJieunKim
@@ -43,5 +42,5 @@ user_groups:
 - Visitors
 ---
 
-Hani Jieun Kim is a 3rd year PhD student in Computational Biology at the School of Mathematics and Statistics, The University of Sydney. She is part of the Computational Systems Biology Group headed by Dr. Pengyi Yang. Her research interests understanding pluripotency transitions among different stem cell types. Her research combines lab experiments with computational data analytics to understand molecular regulations in stem cells and development.
+Hani Jieun Kim is a 3rd year PhD candidate in Computational Biology. Hani is supervised by Dr Pengyi Yang, Professor Patrick Tam, and Dr Pierre Osteil. She is part of the Computational Systems Biology Group at the Children's Medical Research Institute and the Sydney Precision Bioinformatics Group at the University of Sydney. Her main research focus is on understanding stem cell biology through multiomic and single-cell data analysis. Her research combines lab experiments with computational data analytics to understand molecular regulation in stem cells, development, and organogenesis.
 

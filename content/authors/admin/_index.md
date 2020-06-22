@@ -7,10 +7,10 @@ education:
   - course: PhD in Computational Biology
     institution: The University of Sydney
     year: 2022
-  - course: MSc in Biomedical Sciences
+  - course: MSc in Biological Sciences
     institution: Seoul National University 
     year: 2014
-  - course: BSc in Biological Sciences
+  - course: BSc in Biomedical Sciences
     institution: Imperial College London
     year: 2011
 email: "hani.kim@sydney.edu.au"

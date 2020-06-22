@@ -6,16 +6,16 @@ education:
   courses:
   - course: PhD in Computational Biology
     institution: The University of Sydney
-    year: 2018
+    year: 2022
   - course: MSc in Biomedical Sciences
     institution: Seoul National University 
-    year: 2011
+    year: 2014
   - course: BSc in Biological Sciences
     institution: Imperial College London
-    year: 2008
+    year: 2011
 email: "hani.kim@sydney.edu.au"
 interests:
-- Systems and Computational Biology
+- Computational Systems Biology
 - Stem Cell Biology
 - Multiomic and Single Cell Analysis
 organizations:
@@ -42,5 +42,5 @@ user_groups:
 - Visitors
 ---
 
-Hani Jieun Kim is a 3rd year PhD candidate in Computational Biology. Hani is supervised by Dr Pengyi Yang, Professor Patrick Tam, and Dr Pierre Osteil. She is part of the Computational Systems Biology Group at the Children's Medical Research Institute and the Sydney Precision Bioinformatics Group at the University of Sydney. Her main research focus is on understanding stem cell biology through multiomic and single-cell data analysis. Her research combines lab experiments with computational data analytics to understand molecular regulation in stem cells, development, and organogenesis.
+Hani Jieun Kim is a 3rd year PhD candidate in Computational Biology. Hani is supervised by Dr Pengyi Yang, Professor Patrick Tam, and Dr Pierre Osteil. She is part of the Computational Systems Biology Group at the Children's Medical Research Institute and the Sydney Precision Bioinformatics Group at the University of Sydney. Her main research focus is to understand stem cell biology through multiomic and single-cell data analysis.
 

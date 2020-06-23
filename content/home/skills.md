@@ -27,7 +27,7 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = ""
+  icon = "dna"
   icon_pack = "fas"
   name = "Biology"
   description = "100%"

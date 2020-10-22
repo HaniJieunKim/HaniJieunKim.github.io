@@ -97,7 +97,7 @@ address = {street = "The University of Sydney", city = "Sydney", region = "NSW",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "33.8886", longitude = "151.1873"}
+coordinates = {latitude = "-33.887927", longitude = "151.190733"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

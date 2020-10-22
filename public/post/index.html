@@ -577,6 +577,22 @@
       <div class="article-style">
         Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.
+On this page, you&rsquo;ll find some examples of the types of technical content that can be rendered with Academic.
+Examples Code Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the highlight option in your config/_default/params.toml file.
+```python import pandas as pd data = pd.read_csv(&quot;data.csv&quot;) data.head() ```  renders as
+import pandas as pd data = pd.read_csv(&quot;data.csv&quot;) data.head()  Math Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the math option in your config/_default/params.toml file.
+To render inline or block math, wrap your LaTeX math with $...$ or $$...$$, respectively.
+Example math block:
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |} {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$  renders as
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$
+Example inline math $\nabla F(\mathbf{x}_{n})$ renders as $\nabla F(\mathbf{x}_{n})$.
+Example multi-line math using the \\\\ math linebreak:
+$$f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\\\ 1-p_0^* &amp; \text {if }k=0.\end{cases}$$  renders as
+$$f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\
+1-p_0^* &amp; \text {if }k=0.\end{cases}$$
+Diagrams Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the diagram option in your config/_default/params.toml file or by adding diagram: true to your page front matter.
+An example flowchart:
+```mermaid graph TD A[Hard] --&gt;|Text| B(Round) B --&gt; C{Decision} C --&gt;|One| D[Result 1] C --&gt;|Two| E[Result 2] ```  renders as
       </div>
     </a>
     
@@ -880,7 +896,10 @@ Highlight your code snippets, take notes on math classes, and draw diagrams from
     
     <a href="/post/2015-07-23-r-rmarkdown/" class="summary-link">
       <div class="article-style">
-        R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.
+         R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00 fit &lt;- lm(dist ~ speed, data = cars) fit ## ## Call: ## lm(formula = dist ~ speed, data = cars) ## ## Coefficients: ## (Intercept) speed ## -17.579 3.932  Including Plots You can also embed plots. See Figure 1 for example:
+par(mar = c(0, 1, 0, 1)) pie( c(280, 60, 20), c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;), col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;), init.angle = -50, border = NA )  Figure 1: A fancy pie chart.   
       </div>
     </a>
     

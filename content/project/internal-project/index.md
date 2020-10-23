@@ -8,11 +8,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/hani_jieun
 slides: example
-summary: An example of using the in-built project page.
+summary: Understanding stem cells using multi-omics.
 tags:
-- Deep Learning
+- Stem cells
 title: Internal Project
 url_code: ""
 url_pdf: ""

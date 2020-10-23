@@ -107,13 +107,14 @@ Three
 &lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-
+&lt;p&gt;
 &lt;section data-noprocess data-shortcode-slide
   
       
       data-background-image=&#34;/img/boards.jpg&#34;
   &gt;
 
+&lt;img src=&#34;https://hanijieunkim.netlify.app/img/boards.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}

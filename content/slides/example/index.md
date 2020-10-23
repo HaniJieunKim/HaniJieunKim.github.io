@@ -127,7 +127,7 @@ Press the `S` key to view the speaker notes!
 ---
 
 {{< slide background-image="/img/boards.jpg" >}}
-{{< slide-image="/img/boards.jpg" >}}
+![](/img/boards.jpg)
 
 ## Custom Slide
 

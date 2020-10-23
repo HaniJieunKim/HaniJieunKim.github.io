@@ -8,6 +8,9 @@ authors:
 - Thomas Geddes
 - Jean Yang
 - Pengyi Yang
+author_notes:
+- Equal contribution
+- Equal contribution
 date: 2020-10-23T23:36:42+11:00
 doi: 10.1093/bioinformatics/btaa282
 

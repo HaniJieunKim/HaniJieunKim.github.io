@@ -30,6 +30,3 @@ Multi-modal profiling of single cells represents one of the latest technological
 We demonstrate the capacity of CiteFuse to integrate the two data modalities and its relative advantage against data generated from single-modality profiling using both simulations and real-world CITE-seq data. Furthermore, we illustrate a novel doublet detection method based on a combined index of cell hashing and transcriptome data. Finally, we demonstrate CiteFuse for predicting ligand–receptor interactions by using multi-modal CITE-seq data. Collectively, we demonstrate the utility and effectiveness of CiteFuse for the integrative analysis of transcriptome and epitope profiles from CITE-seq data.
 
 CiteFuse is freely available at http://shiny.maths.usyd.edu.au/CiteFuse/ as an online web service and at https://github.com/SydneyBioX/CiteFuse/ as an R package.
-
-#![](/img/CiteFuse_logo_final.jpg)
-<img alt = 'CiteFuse_logo' width='20' src='/img/CiteFuse_logo_final.jpg' />

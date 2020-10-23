@@ -19,9 +19,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
-abstract: Multi-modal profiling of single cells represents one of the latest technological advancements in molecular biology. Among various single-cell multi-modal strategies, cellular indexing of transcriptomes and epitopes by sequencing (CITE-seq) allows simultaneous quantification of two distinct species: RNA and cell-surface proteins. Here, we introduce CiteFuse, a streamlined package consisting of a suite of tools for doublet detection, modality integration, clustering, differential RNA and protein expression analysis, antibody-derived tag evaluation, ligand–receptor interaction analysis and interactive web-based visualization of CITE-seq data.
-
-We demonstrate the capacity of CiteFuse to integrate the two data modalities and its relative advantage against data generated from single-modality profiling using both simulations and real-world CITE-seq data. Furthermore, we illustrate a novel doublet detection method based on a combined index of cell hashing and transcriptome data. Finally, we demonstrate CiteFuse for predicting ligand–receptor interactions by using multi-modal CITE-seq data. Collectively, we demonstrate the utility and effectiveness of CiteFuse for the integrative analysis of transcriptome and epitope profiles from CITE-seq data.
+abstract: ""
 
 
 # Summary. An optional shortened abstract.
@@ -41,12 +39,12 @@ featured: false
 
 url_pdf: https://academic.oup.com/bioinformatics/article-abstract/36/14/4137/5827474?redirectedFrom=fulltext
 url_code: https://github.com/SydneyBioX/CiteFuse/
-url_dataset:
-url_poster:
+url_dataset: '#'
+url_poster: '#'
 url_project: http://shiny.maths.usyd.edu.au/CiteFuse/ 
-url_slides:
-url_source:
-url_video:
+url_slides: '#'
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

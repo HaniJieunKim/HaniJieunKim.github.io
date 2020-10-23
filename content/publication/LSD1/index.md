@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: CiteFuse enables multi-modal analysis of CITE-seq data
-authors: Jieun Hani Kim
+authors:
+- admin
 date: 2020-10-23T23:36:42+11:00
 doi: 10.1093/bioinformatics/btaa282
 

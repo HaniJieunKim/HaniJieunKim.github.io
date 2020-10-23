@@ -12,7 +12,7 @@ links:
 #slides: example
 summary: Single-cell multi-modal analysis of CITE-seq data with CiteFuse
 tags:
-- single-cell
+- Single-cell
 - Multi-omics
 title: CiteFuse
 url_code: ""

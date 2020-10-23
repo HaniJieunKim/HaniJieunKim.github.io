@@ -32,11 +32,11 @@ subtitle = ""
   name = "Biology"
   description = "100%"
   
-[[feature]]
-  icon = "coffee"
-  icon_pack = "fas"
-  name = "Coffee"
-  description = "200%"
+#[[feature]]
+#  icon = "coffee"
+#  icon_pack = "fas"
+#  name = "Coffee"
+#  description = "200%"
 
 # Uncomment to use emoji icons.
 # [[feature]]

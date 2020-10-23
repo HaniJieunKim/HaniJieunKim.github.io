@@ -26,8 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Stem cells"
+    tag = "Stem cells"
+    
+  [[content.filter_button]]
+    name = "Single cell/multi-omics"
+    tag = "Single cell/multi-omics"
   
   [[content.filter_button]]
     name = "Other"
@@ -35,7 +39,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "3"
 
   # Toggle between the various page layout types.
   #   1 = List

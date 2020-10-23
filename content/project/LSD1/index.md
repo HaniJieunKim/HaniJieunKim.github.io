@@ -23,11 +23,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
- links:
- - name: Manuscript
-   url: https://www.biorxiv.org/content/10.1101/2020.10.13.338103v1
-   icon_pack: far
-   icon: newspaper
+links:
+- name: Manuscript
+  url: https://www.biorxiv.org/content/10.1101/2020.10.13.338103v1
+  icon_pack: far
+  icon: newspaper
 
 url_code: ""
 url_pdf: ""

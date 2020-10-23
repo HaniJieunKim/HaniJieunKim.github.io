@@ -4,6 +4,10 @@
 title: CiteFuse enables multi-modal analysis of CITE-seq data
 authors:
 - admin
+- Yingxin Lin
+- Thomas Geddes
+- Jean Yang
+- Pengyi Yang
 date: 2020-10-23T23:36:42+11:00
 doi: 10.1093/bioinformatics/btaa282
 
@@ -18,7 +22,7 @@ publication_types:
 - "2"
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Bioinformatics*"
 publication_short: ""
 abstract: ""
 

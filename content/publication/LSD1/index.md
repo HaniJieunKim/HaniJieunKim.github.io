@@ -1,11 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: CiteFuse enables multi-modal analysis of CITE-seq data
+title: Integrative Analysis Reveals Histone
+Demethylase LSD1/KDM1A Associates with RNA Polymerase II Pausing
 authors:
 - admin
 date: 2020-10-23T23:36:42+11:00
-doi: 10.1093/bioinformatics/btaa282
+doi: 10.1101/2020.10.13.338103
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-23T23:36:42+11:00
@@ -15,7 +16,7 @@ publishDate: 2020-10-23T23:36:42+11:00
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: 
-- "2"
+- "3"
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -38,11 +39,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://academic.oup.com/bioinformatics/article-abstract/36/14/4137/5827474?redirectedFrom=fulltext
-url_code: https://github.com/SydneyBioX/CiteFuse/
+url_pdf: https://www.biorxiv.org/content/10.1101/2020.10.13.338103v1
+url_code: '#'
 url_dataset: '#'
 url_poster: '#'
-url_project: http://shiny.maths.usyd.edu.au/CiteFuse/ 
+url_project: '#'
 url_slides: '#'
 url_source: '#'
 url_video: '#'

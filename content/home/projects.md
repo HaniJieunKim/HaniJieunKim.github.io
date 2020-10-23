@@ -30,8 +30,12 @@ subtitle = ""
     tag = "Stem cells"
     
   [[content.filter_button]]
-    name = "Single cell/multi-omics"
-    tag = "Single cell/multi-omics"
+    name = "Single-cell"
+    tag = "Single-cell"
+  
+  [[content.filter_button]]
+    name = "Multi-omics"
+    tag = "Multi-omics"
   
   [[content.filter_button]]
     name = "Other"

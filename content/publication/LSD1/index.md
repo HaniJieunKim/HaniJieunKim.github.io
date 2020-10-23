@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Integrative Analysis Reveals Histone
-Demethylase LSD1/KDM1A Associates with RNA Polymerase II Pausing
+title: Integrative Analysis Reveals Histone Demethylase LSD1/KDM1A Associates with RNA Polymerase II Pausing
 authors:
 - admin
 date: 2020-10-23T23:36:42+11:00

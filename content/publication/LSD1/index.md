@@ -4,6 +4,7 @@
 title: Integrative Analysis Reveals Histone Demethylase LSD1/KDM1A Associates with RNA Polymerase II Pausing
 authors:
 - admin
+- Pengyi Yang
 date: 2020-10-23T23:36:42+11:00
 doi: 10.1101/2020.10.13.338103
 
@@ -18,7 +19,7 @@ publication_types:
 - "3"
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: '*bioRXiv*'
 publication_short: ""
 abstract: ""
 

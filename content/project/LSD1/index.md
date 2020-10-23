@@ -5,8 +5,8 @@ title: "LSD1"
 summary: ""
 authors: []
 tags: 
--Stem cells
--Multi-omics
+- Stem cells
+- Multi-omics
 categories: []
 date: 2020-10-23T19:20:54+11:00
 

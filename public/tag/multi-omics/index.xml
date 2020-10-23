@@ -5,12 +5,20 @@
     <link>https://hanijieunkim.netlify.app/tag/multi-omics/</link>
       <atom:link href="https://hanijieunkim.netlify.app/tag/multi-omics/index.xml" rel="self" type="application/rss+xml" />
     <description>Multi-omics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 19:20:54 +1100</lastBuildDate>
     <image>
       <url>https://hanijieunkim.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Multi-omics</title>
       <link>https://hanijieunkim.netlify.app/tag/multi-omics/</link>
     </image>
+    
+    <item>
+      <title>LSD1</title>
+      <link>https://hanijieunkim.netlify.app/project/lsd1/</link>
+      <pubDate>Fri, 23 Oct 2020 19:20:54 +1100</pubDate>
+      <guid>https://hanijieunkim.netlify.app/project/lsd1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CiteFuse</title>

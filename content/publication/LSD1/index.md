@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "LSD1"
+title: CiteFuse enables multi-modal analysis of CITE-seq data
 authors: Jieun Hani Kim
 date: 2020-10-23T23:36:42+11:00
 doi: 10.1093/bioinformatics/btaa282
@@ -13,7 +13,8 @@ publishDate: 2020-10-23T23:36:42+11:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: 
+-"2"
 
 # Publication name and optional abbreviated publication name.
 publication: CiteFuse enables multi-modal analysis of CITE-seq data

@@ -5,7 +5,7 @@ image:
   caption: CiteFuse_schematic
   focal_point: Smart
 links:
-- icon: fa-newspaper
+- icon: newspaper
   icon_pack: far
   name: Manuscript
   url: https://academic.oup.com/bioinformatics/article-abstract/36/14/4137/5827474?redirectedFrom=fulltext
@@ -31,4 +31,5 @@ We demonstrate the capacity of CiteFuse to integrate the two data modalities and
 
 CiteFuse is freely available at http://shiny.maths.usyd.edu.au/CiteFuse/ as an online web service and at https://github.com/SydneyBioX/CiteFuse/ as an R package.
 
-![](/img/CiteFuse_logo_final.jpg)
+#![](/img/CiteFuse_logo_final.jpg)
+<img alt = 'CiteFuse_logo' width='20' src='/img/CiteFuse_logo_final.jpg' />

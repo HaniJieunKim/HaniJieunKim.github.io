@@ -19,7 +19,8 @@ interests:
 - Stem Cell Biology
 - Multiomic and Single Cell Analysis
 organizations:
-- name: The University of Sydney
+- name: [The University of Sydney] (https://www.sydney.edu.au/)
+- name: [Children's Medical Research Institute](https://www.cmri.org.au/)
   url: ""
 role: PhD Candidate
 social:
@@ -42,5 +43,7 @@ user_groups:
 - Visitors
 ---
 
-Hani Jieun Kim is a 3rd year PhD candidate in Computational Biology. Hani is supervised by Dr Pengyi Yang, Professor Patrick Tam, and Dr Pierre Osteil. She is part of the Computational Systems Biology Group at the Children's Medical Research Institute and the Sydney Precision Bioinformatics Group at the University of Sydney. Her main research focus is to understand stem cell biology through multiomic and single-cell data analysis.
+I am a 3rd year PhD candidate at the [Precision Bioinformatics Group](https://www.maths.usyd.edu.au/u/SMS/bioinformatics/), School of Mathematics and Statistics at the University of Sydney and at the [Computational Systems Biology Group](https://www.cmri.org.au/Research/Research-Units/Computational-Systems-Biology) at the Children's Medical Research Institute. I am supervised by Dr [Pengyi Yang](https://pyanglab.github.io/), Professor [Patrick Tam](https://www.cmri.org.au/Research/Research-Units/Embryology), and Dr Pierre Osteil. I earned my MSc in Biological Sciences from Seoul National University, Korea and my BSc in Biomedical Sciences from Imperial College London, UK. 
+
+My main research focus is to understand developmental biology through high-dimensional multiomic data and single-cell technologies. Much of my work has focused on trying to apply and develop computational methods to gain new biological insight, particularly for the analysis of cell identity and cell state transitions. I am also working in the wet-lab to investigate the differentiation of human induced pluripotent stem cells to gut organoids. 
 

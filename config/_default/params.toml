@@ -92,7 +92,7 @@ email = "hani.kim@sydney.edu.au"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "The University of Sydney", city = "Sydney", region = "NSW", postcode = "2006", country = "Australia", country_code = "AUS"}
+address = {street = "The University of Sydney", region = "NSW", postcode = "2006", country = "Australia", country_code = "AUS"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

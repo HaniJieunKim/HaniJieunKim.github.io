@@ -29,7 +29,7 @@ links:
   icon: newspaper
 - name: Github
   url: https://github.com/PYangLab/PhosR
-  icon_pack: fas
+  icon_pack: fab
   icon: github
 
 url_code: ""

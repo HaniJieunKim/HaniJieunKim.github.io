@@ -19,8 +19,8 @@ interests:
 - Stem Cell Biology
 - Multiomic and Single Cell Analysis
 organizations:
-- name: [The University of Sydney](https://www.sydney.edu.au/) and [Children's Medical Research Institute](https://www.cmri.org.au/)
-  url: ""
+- name: The University of Sydney
+  url: "https://www.sydney.edu.au/"
 role: PhD Candidate
 social:
 - icon: envelope

@@ -9,7 +9,6 @@ links:
   icon_pack: far
   name: Manuscript
   url: https://www.biorxiv.org/content/10.1101/2020.10.13.338103v1
-
 #slides: example
 summary: Integrative Analysis Reveals LSD1 Associates with RNA Pol2 Pausing
 tags:

@@ -9,7 +9,6 @@ links:
   icon_pack: far
   name: Manuscript
   url: https://academic.oup.com/nar/article/48/4/1828/5680709
-
 #slides: example
 summary: Transregulatory network reconstruction of ESC to EpiLC transition
 tags:

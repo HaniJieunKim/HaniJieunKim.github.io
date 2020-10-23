@@ -1,10 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "TRN"
-authors: []
+title: Transcriptional network dynamics during the progression of pluripotency revealed by integrative statistical learning
+authors: 
+- admin
 date: 2020-10-23T23:40:10+11:00
-doi: ""
+doi: 10.1093/nar/gkz1179
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-10-23T23:40:10+11:00
@@ -13,7 +14,8 @@ publishDate: 2020-10-23T23:40:10+11:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types:
+- "2"
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -36,14 +38,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+url_pdf: https://academic.oup.com/nar/article/48/4/1828/5680709
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
+url_project: '#'
+url_slides: '#'
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

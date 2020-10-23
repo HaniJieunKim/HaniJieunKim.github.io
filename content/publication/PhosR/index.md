@@ -1,8 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PhosR"
-authors: []
+title: PhosR enables processing and functional analysis of phosphoproteomic data
+authors: 
+- admin
 date: 2020-10-23T23:37:01+11:00
 doi: ""
 
@@ -13,7 +14,8 @@ publishDate: 2020-10-23T23:37:01+11:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types:
+- "3"
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -36,14 +38,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+url_pdf: https://www.biorxiv.org/content/10.1101/2020.08.31.276329v2.full
+url_code: https://github.com/PYangLab/PhosR
+url_dataset: '#'
+url_poster: '#'
+url_project: '#'
+url_slides: '#'
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

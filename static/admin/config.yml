@@ -305,7 +305,7 @@ collections:
   - name: featured
     label: Publications
     label_singular: Publication
-    folder: 'content/publication'
+    folder: 'content/featured'
     path: '{{slug}}/index'
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have

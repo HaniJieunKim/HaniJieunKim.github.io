@@ -24,7 +24,7 @@ publication_types:
 - "3"
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*bioRxiv*"
 publication_short: ""
 
 abstract: ""

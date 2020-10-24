@@ -30,7 +30,7 @@ publication_types:
 - "2"
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Nucleic Acid Research*"
 publication_short: ""
 
 abstract: ""

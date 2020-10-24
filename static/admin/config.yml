@@ -302,7 +302,7 @@ collections:
             default: false
           - {label: "Body", name: "body", widget: "markdown"}
           
-  - name: publication
+  - name: featured
     label: Publications
     label_singular: Publication
     folder: 'content/publication'

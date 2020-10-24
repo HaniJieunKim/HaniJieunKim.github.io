@@ -2,13 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: CiteFuse enables multi-modal analysis of CITE-seq data
-#authors:
-#- admin
-#- Yingxin Lin
-#- Thomas Geddes
-#- Jean Yang
-#- Pengyi Yang
-authors: ["**H K Kim<sup>+</sup>**", "Y Lin<sup>+</sup>", "T A Geddes", "J HY Yang", "P Yang"]
+authors:
+- admin\*
+- Yingxin Lin\*
+- Thomas Geddes
+- Jean Yang
+- Pengyi Yang
 date: 2020-04-23T23:36:42+11:00
 doi: 10.1093/bioinformatics/btaa282
 

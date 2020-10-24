@@ -103,22 +103,27 @@
   </url>
   
   <url>
+    <loc>https://hanijieunkim.netlify.app/author/admin%5C/</loc>
+    <lastmod>2020-04-23T23:36:42+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hanijieunkim.netlify.app/publication/citefuse/</loc>
     <lastmod>2020-04-23T23:36:42+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanijieunkim.netlify.app/author/j-hy-yang/</loc>
+    <loc>https://hanijieunkim.netlify.app/author/jean-yang/</loc>
     <lastmod>2020-04-23T23:36:42+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanijieunkim.netlify.app/author/p-yang/</loc>
+    <loc>https://hanijieunkim.netlify.app/author/thomas-geddes/</loc>
     <lastmod>2020-04-23T23:36:42+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanijieunkim.netlify.app/author/t-a-geddes/</loc>
+    <loc>https://hanijieunkim.netlify.app/author/yingxin-lin%5C/</loc>
     <lastmod>2020-04-23T23:36:42+11:00</lastmod>
   </url>
   
@@ -230,14 +235,6 @@
   <url>
     <loc>https://hanijieunkim.netlify.app/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hanijieunkim.netlify.app/author/h-k-kimsup-/sup/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hanijieunkim.netlify.app/author/y-linsup-/sup/</loc>
   </url>
   
 </urlset>

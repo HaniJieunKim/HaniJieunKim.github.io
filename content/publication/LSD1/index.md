@@ -4,6 +4,8 @@
 title: Integrative Analysis Reveals Histone Demethylase LSD1/KDM1A Associates with RNA Polymerase II Pausing
 authors:
 - admin
+- Taiyun Kim
+- Andrew J Oldfield
 - Pengyi Yang
 date: 2020-10-23T23:36:42+11:00
 doi: 10.1101/2020.10.13.338103
@@ -19,7 +21,7 @@ publication_types:
 - "3"
 
 # Publication name and optional abbreviated publication name.
-publication: '*bioRXiv*'
+publication: '*bioRxiv*'
 publication_short: ""
 abstract: ""
 
@@ -40,13 +42,13 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://www.biorxiv.org/content/10.1101/2020.10.13.338103v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: '#'
-url_slides: '#'
-url_source: '#'
-url_video: '#'
+url_code: ''
+url_dataset: ''
+url_poster: /files/lsd1_poster.pdf
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

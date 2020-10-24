@@ -4,7 +4,19 @@
 title: Transcriptional network dynamics during the progression of pluripotency revealed by integrative statistical learning
 authors: 
 - admin
-date: 2020-10-23T23:40:10+11:00
+- Pierre Osteil
+- Sean J Humphrey
+- Senthilkumar Cinghu
+- Andrew J Oldfield
+- Ellis Patrick
+- Emilie E Wilkie
+- Guangdun Peng
+- Shengbao Suo
+- Raja Jothi
+- Patrick PL Tam
+- Pengyi Yang
+
+date: 2019-12-23T23:40:10+11:00
 doi: 10.1093/nar/gkz1179
 
 # Schedule page publish date (NOT publication's date).
@@ -39,13 +51,13 @@ featured: true
 #   icon: twitter
 
 url_pdf: https://academic.oup.com/nar/article/48/4/1828/5680709
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: '#'
-url_slides: '#'
-url_source: '#'
-url_video: '#'
+url_code: ''
+url_dataset: ''
+url_poster: /files/TRN_poster.pdf
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

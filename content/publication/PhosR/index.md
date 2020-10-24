@@ -4,7 +4,13 @@
 title: PhosR enables processing and functional analysis of phosphoproteomic data
 authors: 
 - admin
-date: 2020-10-23T23:37:01+11:00
+- Taiyun Kim
+- Nolan J Hoffman
+- Di Xiao
+- David E James
+- Sean J Humphrey
+- Pengyi Yang
+date: 2020-09-23T23:37:01+11:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -40,12 +46,12 @@ featured: true
 
 url_pdf: https://www.biorxiv.org/content/10.1101/2020.08.31.276329v2.full
 url_code: https://github.com/PYangLab/PhosR
-url_dataset: '#'
-url_poster: '#'
-url_project: '#'
-url_slides: '#'
-url_source: '#'
-url_video: '#'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: https://bioconductor.riken.jp/packages/devel/bioc/vignettes/PhosR/inst/doc/PhosR.pdf
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

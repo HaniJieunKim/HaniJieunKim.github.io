@@ -5,7 +5,7 @@
     <link>https://hanijieunkim.netlify.app/publication/</link>
       <atom:link href="https://hanijieunkim.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 23:40:10 +1100</lastBuildDate>
     <image>
       <url>https://hanijieunkim.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,18 +13,35 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://hanijieunkim.netlify.app/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://hanijieunkim.netlify.app/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Transcriptional network dynamics during the progression of pluripotency revealed by integrative statistical learning</title>
+      <link>https://hanijieunkim.netlify.app/publication/trn/</link>
+      <pubDate>Fri, 23 Oct 2020 23:40:10 +1100</pubDate>
+      <guid>https://hanijieunkim.netlify.app/publication/trn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhosR enables processing and functional analysis of phosphoproteomic data</title>
+      <link>https://hanijieunkim.netlify.app/publication/phosr/</link>
+      <pubDate>Fri, 23 Oct 2020 23:37:01 +1100</pubDate>
+      <guid>https://hanijieunkim.netlify.app/publication/phosr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative Analysis Reveals Histone Demethylase LSD1/KDM1A Associates with RNA Polymerase II Pausing</title>
+      <link>https://hanijieunkim.netlify.app/publication/lsd1/</link>
+      <pubDate>Fri, 23 Oct 2020 23:36:42 +1100</pubDate>
+      <guid>https://hanijieunkim.netlify.app/publication/lsd1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CiteFuse enables multi-modal analysis of CITE-seq data</title>
+      <link>https://hanijieunkim.netlify.app/publication/citefuse/</link>
+      <pubDate>Thu, 23 Apr 2020 23:36:42 +1100</pubDate>
+      <guid>https://hanijieunkim.netlify.app/publication/citefuse/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -32,26 +49,6 @@
       <link>https://hanijieunkim.netlify.app/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://hanijieunkim.netlify.app/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://hanijieunkim.netlify.app/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://hanijieunkim.netlify.app/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

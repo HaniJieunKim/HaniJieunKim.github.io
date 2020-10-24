@@ -35,6 +35,30 @@
     </item>
     
     <item>
+      <title>Transcriptional network dynamics during the progression of pluripotency revealed by integrative statistical learning</title>
+      <link>https://hanijieunkim.netlify.app/publication/trn/</link>
+      <pubDate>Fri, 23 Oct 2020 23:40:10 +1100</pubDate>
+      <guid>https://hanijieunkim.netlify.app/publication/trn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhosR enables processing and functional analysis of phosphoproteomic data</title>
+      <link>https://hanijieunkim.netlify.app/publication/phosr/</link>
+      <pubDate>Fri, 23 Oct 2020 23:37:01 +1100</pubDate>
+      <guid>https://hanijieunkim.netlify.app/publication/phosr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative Analysis Reveals Histone Demethylase LSD1/KDM1A Associates with RNA Polymerase II Pausing</title>
+      <link>https://hanijieunkim.netlify.app/publication/lsd1/</link>
+      <pubDate>Fri, 23 Oct 2020 23:36:42 +1100</pubDate>
+      <guid>https://hanijieunkim.netlify.app/publication/lsd1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LSD1</title>
       <link>https://hanijieunkim.netlify.app/project/lsd1/</link>
       <pubDate>Fri, 23 Oct 2020 19:20:54 +1100</pubDate>
@@ -59,6 +83,14 @@
       <guid>https://hanijieunkim.netlify.app/project/phosr/</guid>
       <description>&lt;p&gt;Mass spectrometry (MS)-based phosphoproteomics has revolutionised our ability to profile phosphorylation-based signalling in cells and tissues on a global scale. To infer the action of kinases and signalling pathways in phosphoproteomic experiments, we present PhosR, a set of tools and methodologies implemented in a suite of R packages facilitating comprehensive analysis of phosphoproteomic data. By applying PhosR to both published and new phosphoproteomic datasets, we demonstrate capabilities in data imputation and normalisation using a novel set of ‘stably phosphorylated sites’,and in functional analysis for inferring active kinases and signalling pathways. In particular, we introduce a ‘signalome’ construction method for identifying a collection of signalling modules to summarise and visualise the interaction of kinases and their collective actions on signal transduction. Together, our data and findings demonstrate the utility of PhosR in processing and generating novel biological knowledge from MS-based phosphoproteomic data.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>CiteFuse enables multi-modal analysis of CITE-seq data</title>
+      <link>https://hanijieunkim.netlify.app/publication/citefuse/</link>
+      <pubDate>Thu, 23 Apr 2020 23:36:42 +1100</pubDate>
+      <guid>https://hanijieunkim.netlify.app/publication/citefuse/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -311,21 +343,6 @@ You found me!
 
   &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://hanijieunkim.netlify.app/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://hanijieunkim.netlify.app/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -734,26 +751,6 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://hanijieunkim.netlify.app/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://hanijieunkim.netlify.app/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

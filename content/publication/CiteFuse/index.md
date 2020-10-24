@@ -11,11 +11,11 @@ authors:
 author_notes:
 - Equal contribution
 - Equal contribution
-date: 2020-10-23T23:36:42+11:00
+date: 2020-04-23T23:36:42+11:00
 doi: 10.1093/bioinformatics/btaa282
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-10-23T23:36:42+11:00
+publishDate: 2020-04-23T23:36:42+11:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

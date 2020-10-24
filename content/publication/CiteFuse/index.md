@@ -8,7 +8,7 @@ title: CiteFuse enables multi-modal analysis of CITE-seq data
 #- Thomas Geddes
 #- Jean Yang
 #- Pengyi Yang
-authors = ["**H K Kim<sup>+</sup>**", "Y Lin<sup>+</sup>, "T A Geddes", "J HY Yang", "P Yang"]
+authors: ["**H K Kim<sup>+</sup>**", "Y Lin<sup>+</sup>", "T A Geddes", "J HY Yang", "P Yang"]
 date: 2020-04-23T23:36:42+11:00
 doi: 10.1093/bioinformatics/btaa282
 

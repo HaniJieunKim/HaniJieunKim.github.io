@@ -47,12 +47,12 @@ featured: true
 
 url_pdf: https://academic.oup.com/bioinformatics/article-abstract/36/14/4137/5827474?redirectedFrom=fulltext
 url_code: https://github.com/SydneyBioX/CiteFuse/
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: /files/citefuse_poster.pdf
 url_project: http://shiny.maths.usyd.edu.au/CiteFuse/ 
-url_slides: '#'
-url_source: '#'
-url_video: '#'
+url_slides: https://sydneybiox.github.io/CiteFuse/index.html
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
